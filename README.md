@@ -1,12 +1,5 @@
-# SGM - Roteiro 9
-
-Versão Java, sem Kotlin e sem Jetpack Compose. A Activity principal é explicitamente `com.example.sgm.MainActivity` e todas as telas usam Fragments.
-
-## Importante
-1. Feche o projeto antigo no Android Studio.
-2. Desinstale o aplicativo `SGM - Sistema de Gestão` do emulador/celular.
-3. Extraia este ZIP em uma pasta nova.
-4. No Android Studio, use **Open** e selecione a pasta que contém `settings.gradle.kts`.
-5. Aguarde o Gradle Sync terminar.
-6. Execute **Build > Clean Project**, depois **Build > Rebuild Project**.
-7. Execute o aplicativo.
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/6cb8f28c-03be-4d4a-9bdb-e97ecd43dd0d" /><img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/0144654d-33af-4989-9314-2431251825f9" />
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/4a1f4c3f-afb2-4bd7-865c-f84c29d32f08" />
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/b98d6f23-f7ee-411d-ab02-df2a075e0799" />
+<img width="1919" height="1036" alt="image" src="https://github.com/user-attachments/assets/ed403059-7a82-4b9b-a746-85162e474ab9" />
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/df2f0f85-7667-43fb-a55b-53fcd7390c73" />
